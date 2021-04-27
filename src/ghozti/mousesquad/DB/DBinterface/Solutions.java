@@ -1,4 +1,4 @@
-package ghozti.mousesquad.DB;
+package ghozti.mousesquad.DB.DBinterface;
 
 import java.util.ArrayList;
 
